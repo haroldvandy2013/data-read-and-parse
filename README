@@ -1,0 +1,3 @@
+this app is built on Node.js
+
+to read data in input.txt line by line, and parse and assign value for each element and print result in output.txt
